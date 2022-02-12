@@ -7,4 +7,5 @@ for x in text :
     x = x.lower()
     if x>= 'a' and x <= 'z':
         numOfLetters = numOfLetters+1
+
 print(numOfLetters)
