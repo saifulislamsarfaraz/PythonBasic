@@ -5,3 +5,7 @@ num2.remove(5)
 print(num2)
 print(4 not in num2)
 print(4 in num2)
+
+print(num1|num2)
+print(num1&num2)
+print(num1-num2)
